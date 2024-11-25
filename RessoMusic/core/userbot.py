@@ -92,7 +92,7 @@ class Userbot(Client):
 
         if config.STRING3:
             await self.three.start()
-             try:
+            try:
                 await self.one.join_chat("untold_coder")
                 await self.one.join_chat("Youtube-_Offical_Network")
             except:
@@ -113,7 +113,7 @@ class Userbot(Client):
 
         if config.STRING4:
             await self.four.start()
-             try:
+            try:
                 await self.one.join_chat("untold_coder")
                 await self.one.join_chat("Youtube-_Offical_Network")
             except:
@@ -134,7 +134,7 @@ class Userbot(Client):
 
         if config.STRING5:
             await self.five.start()
-             try:
+            try:
                 await self.one.join_chat("untold_coder")
                 await self.one.join_chat("Youtube-_Offical_Network")
             except:
