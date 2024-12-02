@@ -50,12 +50,12 @@ async def init():
         pass
     await AMBOTOP.decorators()
     LOGGER("RessoMusic").info(
-        "BsdK Resso Music Start Hoga Be Ab"
+        " untold Music Start Hoga"
     )
     await idle()
     await app.stop()
     await userbot.stop()
-    LOGGER("RessoMusic").info("Stopping AMBOTOP Music Bot...")
+    LOGGER("RessoMusic").info("Stopping Untold Music Bot...")
 
 
 if __name__ == "__main__":
